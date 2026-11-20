@@ -1,0 +1,6 @@
+apiVersion: v2
+name: golden-path
+description: A golden-path Helm chart with reliability defaults built in
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
